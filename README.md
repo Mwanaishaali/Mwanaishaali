@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&width=700&lines=Wherever+my+curiousity+takes+me!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&width=700&lines=Wherever+my+curiosity+takes+me!!" />
 </p>
 
 # Hey there 👋
