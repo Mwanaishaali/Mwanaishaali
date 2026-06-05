@@ -48,7 +48,9 @@ Most days I'm simply following my curiosity wherever it decides to go.
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
-
+<p align="center">
+  <img src="kitty.gif" width="80">
+</p>
 
 
 <!--
