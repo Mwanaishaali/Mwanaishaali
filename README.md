@@ -9,13 +9,13 @@
 
 # Hey there 👋
 
-I'm Aisha.
+I'm Mwanaisha.
 
 A curious explorer wandering through a world made of data, code, stories, and endless rabbit holes of knowledge.
 
 I enjoy discovering patterns hidden in datasets, building things that start as random ideas, and learning just enough about a topic to accidentally spend the next three hours reading about it.
 
-Not chasing the title of the strongest wizard, pirate king, or genius programmer—just trying to become a little better than yesterday while enjoying the journey.
+Not chasing the title of the strongest wizard, pirate king, or genius programmer, just trying to become a little better than yesterday while enjoying the journey.
 
 Some days I'm training machine learning models.
 Some days I'm building applications.
